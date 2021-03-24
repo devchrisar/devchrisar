@@ -10,15 +10,27 @@ Skills:  VANILLA JS / HTML / CSS/SCSS/LESS
 - 🌱 I’m currently learning JS/VUE JS/REACT JS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devchrisar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sadfacezz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/CODER-STRING)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/devchrisar)  
+<p align="center">
+&nbsp; <a href="https://github.com/devchrisar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=ffba08" /></a>  
+&nbsp; <a href="https://www.instagram.com/sadfacezz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00509d" /></a>  
+&nbsp; <a href="https://codepen.io/CODER-STRING" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codepen-06d6a0?style=for-the-badge&logo=Codepen&logoColor=889696" /></a>
+&nbsp; <a href="https://www.reddit.com/user/devchrisar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=1be7ff" /></a>
+  &nbsp; <a href="coderhouse.slack.com/team/U01EKMAQFM4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+</p>
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchrisar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchrisar&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devchrisar&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devchrisar&show_icons=true&theme=synthwave)  
 
 ![GitHub metrics](https://metrics.lecoq.io/devchrisar)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devchrisar)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devchrisar&theme=synthwave)  
 
+<img src="https://thumbs.gfycat.com/LoneSoulfulJohndory.webp" width="200"/>
+<samp>
+<summary> <b> <samp> want to shoot some ducks huh? </samp></b></summary>
+  </samp>
+  <b><h2 style="color: #fc6203">YOU &nbsp; MONSTER !</h2> </b>
+  <img src="https://media.giphy.com/media/Rs2iAnfEImXIs/giphy.gif" width="200"/>
