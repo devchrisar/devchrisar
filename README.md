@@ -29,8 +29,11 @@ Skills:  VANILLA JS / HTML / CSS/SCSS/LESS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devchrisar&theme=synthwave)  
 
 <img src="https://thumbs.gfycat.com/LoneSoulfulJohndory.webp" width="200"/>
-<samp>
+<details align="center">
 <summary> <b> <samp> want to shoot some ducks huh? </samp></b></summary>
-  </samp>
+  <samp>
   <b><h2 style="color: #fc6203">YOU &nbsp; MONSTER !</h2> </b>
   <img src="https://media.giphy.com/media/Rs2iAnfEImXIs/giphy.gif" width="200"/>
+    <p>that's whats a joke actually he he!!</p><img src="https://thumbs.gfycat.com/GloriousSillyFrilledlizard.webp" width="60"/>
+ <samp>
+ <details align="center">
