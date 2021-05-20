@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is **Christopher Arias**, im from Margarita,Venezuela
 #### I am a simple student on my way to becoming a back-end developer<img src="https://media.giphy.com/media/5PhxAUrOowjBrIAWqc/giphy.gif" width="50" height="70"/>
-![I am a simple student on my way to becoming a back-end developer<img src="https://media.giphy.com/media/5PhxAUrOowjBrIAWqc/giphy.gif" width="50" height="70"/>](https://lh4.googleusercontent.com/6SBmNXY7VTKvalVsd_Q5B3II5lz3hU6vHx91yzn_e93AQwvwDxa4UDpk0UV_eAC_o5fvxsWC033T6Q=w904-h916)
-
+![I am a simple student on my way to becoming a back-end developer<img src="https://media.giphy.com/media/5PhxAUrOowjBrIAWqc/giphy.gif" width="50" height="70"/>](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdm0qx8t0i9gc9.cloudfront.net%2Fthumbnails%2Fvideo%2Fuh59Wh0%2Fhappy-face-hand-drawn-color-icon-animation-with-transparent-background_br8eldslg_thumbnail-1080_08.png&f=1&nofb=1)
+<img src="https://lh4.googleusercontent.com/6SBmNXY7VTKvalVsd_Q5B3II5lz3hU6vHx91yzn_e93AQwvwDxa4UDpk0UV_eAC_o5fvxsWC033T6Q=w904-h916"/>
 I am a student of the professional career in physical activity and sport who wants to become a developer and bring more innovation to the sports world through programming. At the moment I am only beginning to use front-end technologies but I would like more to learn about back side, and hope i work some day as a back-end developer or maybe as a sport data scientists.
 
 
