@@ -17,7 +17,7 @@ Skills:  VANILLA JS / HTML / CSS/SCSS/LESS
   &nbsp; <a href="coderhouse.slack.com/team/U01EKMAQFM4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 </p>
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
 <img align="right" src="https://count.getloli.com/get/@:devchrisar?theme=rule34" alt=":lolis" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchrisar&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
