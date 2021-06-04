@@ -14,7 +14,7 @@ Skills:  VANILLA JS / HTML / CSS/SCSS/LESS
 &nbsp; <a href="https://www.instagram.com/sadfacezz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=00509d" /></a>  
 &nbsp; <a href="https://codepen.io/CODER-STRING" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codepen-06d6a0?style=for-the-badge&logo=Codepen&logoColor=889696" /></a>
 &nbsp; <a href="https://www.reddit.com/user/devchrisar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=1be7ff" /></a>
-  &nbsp; <a href="coderhouse.slack.com/team/U01EKMAQFM4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+  &nbsp; <a href="https://discord.com/users/691048812558417992" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 
