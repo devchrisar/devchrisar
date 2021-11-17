@@ -21,6 +21,8 @@ I am a student of the professional career in physical activity and sport who wan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchrisar&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/devchris"><img align="right"  src="https://api.daily.dev/devcards/d31670b152cc4751971d8e255cfc7081.png?r=4v9" width="400" alt="CHRISTOPHER  HENRY ARIAS ARCIA's Dev Card"/></a>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devchrisar&show_icons=true&theme=synthwave)  
 
 ![GitHub metrics](https://metrics.lecoq.io/devchrisar)  
